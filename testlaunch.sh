@@ -1,0 +1,10 @@
+ssh -l "bxs123330" "dc03.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc22.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc13.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc36.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc07.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc28.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc45.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc40.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc39.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
+ssh -l "bxs123330" "dc11.utdallas.edu" "cd $HOME/AOS; java BroadcastMain" &
